@@ -142,3 +142,53 @@
     </tr>
   </tbody>
 </table>
+
+
+## CoordinatorTabLayout ##
+
+一个自定义组合控件,可快速实现 TabLayout 与 CoordinatorLayout 相结合的样式
+
+地址：[https://github.com/hugeterry/CoordinatorTabLayout](https://github.com/hugeterry/CoordinatorTabLayout)
+
+效果图：
+
+![https://github.com/hugeterry/CoordinatorTabLayout/blob/master/showUI/show1.gif](https://github.com/hugeterry/CoordinatorTabLayout/blob/master/showUI/show1.gif)
+
+
+
+## FloatingView ##
+
+创建一个 Floating 作为 FloatingElement 的容器,然后让你的 View 飞起来
+
+地址：[https://github.com/UFreedom/FloatingView](https://github.com/UFreedom/FloatingView)
+
+效果图：
+
+![https://github.com/UFreedom/FloatingView/raw/master/images/demo.gif](https://github.com/UFreedom/FloatingView/raw/master/images/demo.gif)
+
+
+## CouponView ##
+
+半圆锯齿背景虚线边框组合实现简单优惠券效果
+
+地址：[https://github.com/dongjunkun/CouponView](https://github.com/dongjunkun/CouponView)
+
+效果图：
+
+<h1 align="center">
+<img src="https://github.com/dongjunkun/CouponView/raw/master/art/coupnView_gif1.gif" width="280" height="498" alt="coupnView_gif1"/>
+<img src="https://github.com/dongjunkun/CouponView/raw/master/art/coupnView_gif2.gif" width="280" height="498" alt="coupnView_gif2"/>
+<img src="https://github.com/dongjunkun/CouponView/raw/master/art/coupnView_gif3.gif" width="280" height="498" alt="coupnView_gif3"/><br/>
+</h1>
+
+
+## SuperCalendar ##
+
+android 自定义日历控件 支持左右无限滑动 周月切换 标记日期显示 自定义显示效果跳转到指定日期
+
+地址：[https://github.com/MagicMashRoom/SuperCalendar](https://github.com/MagicMashRoom/SuperCalendar)
+
+
+效果图：
+
+![https://camo.githubusercontent.com/b609928ccdc65c98c1b6f2ab00cf6c46a12e8c81/687474703a2f2f6f736e6674736961652e626b742e636c6f7564646e2e636f6d2f737570657263616c656e6461726578616d706c652e676966](https://camo.githubusercontent.com/b609928ccdc65c98c1b6f2ab00cf6c46a12e8c81/687474703a2f2f6f736e6674736961652e626b742e636c6f7564646e2e636f6d2f737570657263616c656e6461726578616d706c652e676966)
