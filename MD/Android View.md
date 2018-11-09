@@ -194,29 +194,6 @@ android 自定义日历控件 支持左右无限滑动 周月切换 标记日期
 ![https://camo.githubusercontent.com/b609928ccdc65c98c1b6f2ab00cf6c46a12e8c81/687474703a2f2f6f736e6674736961652e626b742e636c6f7564646e2e636f6d2f737570657263616c656e6461726578616d706c652e676966](https://camo.githubusercontent.com/b609928ccdc65c98c1b6f2ab00cf6c46a12e8c81/687474703a2f2f6f736e6674736961652e626b742e636c6f7564646e2e636f6d2f737570657263616c656e6461726578616d706c652e676966)
 
 
-## CityPicker
-
-城市选择器：省市区三级联动地址选择的功能
-
-地址：[https://github.com/crazyandcoder/citypicker](https://github.com/crazyandcoder/citypicker)
-
-效果图：
-
-![](http://img.blog.csdn.net/20171217104511214?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvbGlqaV94Yw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)  
-
-**仿iOS滚轮实现**
-
-![](http://img.blog.csdn.net/20171217113122669?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvbGlqaV94Yw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
-
-**城市一级列表展示效果图**
-
- ![](http://img.blog.csdn.net/20171217110803599?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvbGlqaV94Yw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)     
-
-**省市区三级列表展示效果图**
-
-![](http://img.blog.csdn.net/20171217112838613?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvbGlqaV94Yw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
-
-
 ## Android-SpinKit
 
 炫酷的 Android 加载动画
@@ -226,3 +203,5 @@ android 自定义日历控件 支持左右无限滑动 周月切换 标记日期
 效果图：
 
 ![](https://raw.githubusercontent.com/ybq/AndroidSpinKit/master/art/screen.gif)
+
+
